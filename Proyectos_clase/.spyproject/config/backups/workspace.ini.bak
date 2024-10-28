@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['01.1_Introduccion.py', '..\\scripts_teoria\\08 - ficheros.py', '..\\scripts_teoria\\08.1 - Permisos con los archivos.py', 'Ejercicios_Funciones_Archivos.py', '01-introduccion.py', '02a_Strings.py']
+recent_files = ['..\\scripts_teoria\\POO\\01 Prog_Orientada_Objetos.py', '..\\scripts_teoria\\POO\\02 Prog_Orientada_Objetos.py', 'Ejercicios_02_PPO.py', 'Ejercicios_03_PPO.py']
 
 [main]
 version = 0.2.0
