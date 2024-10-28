@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['01.1_Introduccion.py', '..\\scripts_teoria\\08 - ficheros.py', '..\\scripts_teoria\\08.1 - Permisos con los archivos.py', 'Ejercicios_Funciones_Archivos.py', '01-introduccion.py', '02a_Strings.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
